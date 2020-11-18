@@ -1,3 +1,5 @@
+# All main files available in src folder. The main react app is App.js and it calls other components and pages in the components folder (and the pages folder present within)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
